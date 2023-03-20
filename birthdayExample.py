@@ -1,4 +1,4 @@
-# Gabriel Solomon, 2020
+# Mitzi Chavez, 2023
 
 import json
 
@@ -18,7 +18,7 @@ import json
 # pathToFile = "./birthday/birthday.json"
 
 # full path to file
-pathToFile = "C:/Users/jerom/Documents/GitHub/class-python/birthday/birthday.json"
+pathToFile = "/Users/mitzichavez/Documents/GitHub/python class/Lupitas-look-up/birthday.json"
 
 
 # try to open a file and throw a error if it is not found
